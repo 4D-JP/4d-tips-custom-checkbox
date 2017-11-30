@@ -4,7 +4,7 @@
 
 * 図1. 標準チェックボックス（macOS）
 
-<img alt="2017-11-30 15 31 28" src="https://user-images.githubusercontent.com/10509075/33419365-611668a0-d5ed-11e7-9a95-699fbe253968.png">
+<img width="180" alt="2017-11-30 15 31 28" src="https://user-images.githubusercontent.com/10509075/33419365-611668a0-d5ed-11e7-9a95-699fbe253968.png">
 
 ### 3Dチェックボックス
 
