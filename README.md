@@ -4,7 +4,7 @@
 
 * 図1. 標準チェックボックス（macOS）
 
-<img width="60" alt="2017-11-30 15 31 28" src="https://user-images.githubusercontent.com/10509075/33419365-611668a0-d5ed-11e7-9a95-699fbe253968.png">
+<img alt="2017-11-30 15 31 28" src="https://user-images.githubusercontent.com/10509075/33419365-611668a0-d5ed-11e7-9a95-699fbe253968.png">
 
 ### 3Dチェックボックス
 
@@ -16,11 +16,11 @@
 
 * 図2. 3Dチェックボックス - 値が``0``のとき
 
-![checkbox 0](https://user-images.githubusercontent.com/10509075/33419452-cb5b33a8-d5ed-11e7-9c62-68906687cdec.png)
+<img alt="0" width="24" src="https://user-images.githubusercontent.com/10509075/33419452-cb5b33a8-d5ed-11e7-9c62-68906687cdec.png" />
 
 * 図3. 3Dチェックボックス - 値が``1``のとき
 
-![checkbox 1](https://user-images.githubusercontent.com/10509075/33419472-e497c674-d5ed-11e7-8129-3e47b37e6b72.png)
+<img alt="1" width="24" src="https://user-images.githubusercontent.com/10509075/33419472-e497c674-d5ed-11e7-8129-3e47b37e6b72.png" />
 
 オブジェクトメソッドは下記のようになります。
 
