@@ -42,4 +42,4 @@ End if
 
 * 図4. 3Dチェックボックス 
 
-<img width="405" alt="2017-11-30 16 48 55" src="https://user-images.githubusercontent.com/10509075/33419575-624ea8d0-d5ee-11e7-984e-562e5e478293.png">
+<img width="405" alt="2017-11-30 16 59 32" src="https://user-images.githubusercontent.com/10509075/33419896-d9ca3112-d5ef-11e7-94f3-c9e16abcad51.png">
